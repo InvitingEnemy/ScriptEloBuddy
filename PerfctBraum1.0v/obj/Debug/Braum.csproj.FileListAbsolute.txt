@@ -1,0 +1,8 @@
+C:\Users\Edcarlos\Desktop\Braum\bin\Debug\PerfectBraum.exe.config
+C:\Users\Edcarlos\Desktop\Braum\bin\Debug\PerfectBraum.exe
+C:\Users\Edcarlos\Desktop\Braum\bin\Debug\PerfectBraum.pdb
+C:\Users\Edcarlos\Desktop\Braum\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Edcarlos\Desktop\Braum\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Edcarlos\Desktop\Braum\obj\Debug\Braum.csprojResolveAssemblyReference.cache
+C:\Users\Edcarlos\Desktop\Braum\obj\Debug\PerfectBraum.exe
+C:\Users\Edcarlos\Desktop\Braum\obj\Debug\PerfectBraum.pdb

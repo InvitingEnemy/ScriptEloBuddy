@@ -1,0 +1,11 @@
+C:\Users\Edcarlos\Desktop\Braum\bin\Release\PerfectBraum.exe.config
+C:\Users\Edcarlos\Desktop\Braum\bin\Release\PerfectBraum.exe
+C:\Users\Edcarlos\Desktop\Braum\bin\Release\PerfectBraum.pdb
+C:\Users\Edcarlos\Desktop\Braum\bin\Release\EloBuddy.dll
+C:\Users\Edcarlos\Desktop\Braum\bin\Release\EloBuddy.SDK.dll
+C:\Users\Edcarlos\Desktop\Braum\bin\Release\SharpDX.dll
+C:\Users\Edcarlos\Desktop\Braum\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Edcarlos\Desktop\Braum\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Edcarlos\Desktop\Braum\bin\Release\Newtonsoft.Json.dll
+C:\Users\Edcarlos\Desktop\Braum\obj\Release\PerfectBraum.exe
+C:\Users\Edcarlos\Desktop\Braum\obj\Release\PerfectBraum.pdb

@@ -1,0 +1,14 @@
+C:\Users\A-131-3\Desktop\WuAlistar\bin\Debug\WuAlistar.exe.config
+C:\Users\A-131-3\Desktop\WuAlistar\obj\Debug\WuAlistar.exe
+C:\Users\A-131-3\Desktop\WuAlistar\obj\Debug\WuAlistar.pdb
+C:\Users\Mertss\Desktop\WuAlistar\bin\Debug\WuAlistar.exe.config
+C:\Users\Mertss\Desktop\WuAlistar\obj\Debug\WuAlistar.exe
+C:\Users\Mertss\Desktop\WuAlistar\obj\Debug\WuAlistar.pdb
+C:\Users\Mertss\Desktop\Perfect Braum\bin\Debug\WuAlistar.exe.config
+C:\Users\Mertss\Desktop\Perfect Braum\obj\Debug\WuAlistar.exe
+C:\Users\Mertss\Desktop\Perfect Braum\obj\Debug\WuAlistar.pdb
+C:\Users\Mertss\Desktop\Perfect Braum\bin\Debug\PerfectBraum.exe.config
+C:\Users\Mertss\Desktop\My Addons\Perfect Braum\bin\Debug\PerfectBraum.exe.config
+C:\Users\Mertss\Desktop\Üzerinde Çalıştığım Addonalr\My Addons\Perfect Braum\bin\Debug\PerfectBraum.exe.config
+C:\Users\Mertss\Desktop\buddy\My Addons\Perfect Braum\bin\Debug\PerfectBraum.exe.config
+C:\Users\Edcarlos\Desktop\Braum\bin\Debug\PerfectBraum.exe.config
