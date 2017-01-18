@@ -1,0 +1,11 @@
+C:\Users\Edcarlos\Documents\Visual Studio 2013\Projects\KillSteal\KillSteal\bin\Release\KillSteal.exe.config
+C:\Users\Edcarlos\Documents\Visual Studio 2013\Projects\KillSteal\KillSteal\bin\Release\KillSteal.exe
+C:\Users\Edcarlos\Documents\Visual Studio 2013\Projects\KillSteal\KillSteal\bin\Release\KillSteal.pdb
+C:\Users\Edcarlos\Documents\Visual Studio 2013\Projects\KillSteal\KillSteal\bin\Release\EloBuddy.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2013\Projects\KillSteal\KillSteal\bin\Release\EloBuddy.SDK.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2013\Projects\KillSteal\KillSteal\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2013\Projects\KillSteal\KillSteal\bin\Release\SharpDX.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2013\Projects\KillSteal\KillSteal\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2013\Projects\KillSteal\KillSteal\bin\Release\Newtonsoft.Json.dll
+C:\Users\Edcarlos\Documents\Visual Studio 2013\Projects\KillSteal\KillSteal\obj\Release\KillSteal.exe
+C:\Users\Edcarlos\Documents\Visual Studio 2013\Projects\KillSteal\KillSteal\obj\Release\KillSteal.pdb
