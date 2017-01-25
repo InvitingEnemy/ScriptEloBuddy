@@ -1,0 +1,12 @@
+c:\users\edcarlos\documents\visual studio 2013\Projects\NewVayne\NewVayne\bin\Debug\NewVayne.exe.config
+c:\users\edcarlos\documents\visual studio 2013\Projects\NewVayne\NewVayne\bin\Debug\NewVayne.exe
+c:\users\edcarlos\documents\visual studio 2013\Projects\NewVayne\NewVayne\bin\Debug\NewVayne.pdb
+c:\users\edcarlos\documents\visual studio 2013\Projects\NewVayne\NewVayne\bin\Debug\EloBuddy.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\NewVayne\NewVayne\bin\Debug\EloBuddy.SDK.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\NewVayne\NewVayne\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\NewVayne\NewVayne\bin\Debug\SharpDX.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\NewVayne\NewVayne\bin\Debug\EloBuddy.Sandbox.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\NewVayne\NewVayne\bin\Debug\Newtonsoft.Json.dll
+c:\users\edcarlos\documents\visual studio 2013\Projects\NewVayne\NewVayne\obj\Debug\NewVayne.csprojResolveAssemblyReference.cache
+c:\users\edcarlos\documents\visual studio 2013\Projects\NewVayne\NewVayne\obj\Debug\NewVayne.exe
+c:\users\edcarlos\documents\visual studio 2013\Projects\NewVayne\NewVayne\obj\Debug\NewVayne.pdb
